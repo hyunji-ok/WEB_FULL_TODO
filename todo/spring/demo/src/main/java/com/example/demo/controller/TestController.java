@@ -44,7 +44,7 @@ public class TestController {
 		return "Hello World! ID " + testRequestBodyDTO.getId() + " Message : " + testRequestBodyDTO.getMessage();
 	}
 
-	/*
+	
 	@GetMapping("/testResponseBody")
 	public ResponseDTO<String> testControllerResponseBody() {
 		List<String> list = new ArrayList<>();
@@ -62,5 +62,5 @@ public class TestController {
 		return ResponseEntity.badRequest().body(response);
 	}
 	
-	*/
+	
 }
