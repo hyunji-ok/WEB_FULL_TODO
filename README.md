@@ -1,5 +1,4 @@
-# WEB_FULL_TODO
-스프링부트와 react를 이용하여 todo 만들기
+# 스프링부트와 react를 이용하여 todo 만들기
 
 ### 게시판 기능
 1. Todo 생성 : + 버튼을 클릭해 Todo 아이템을 생성할 수 있다.
