@@ -22,6 +22,7 @@
 ## 😼 FRONT-END 환경
 
 - node.js 버전 : 12.16.1 LTS
+- react 버전 : 17.0.2
 - 사용 IDE : VS CODE
 - UI 패키지 : material-ui
 
